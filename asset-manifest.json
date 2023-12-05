@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/form/static/css/main.676a1ff9.css",
+    "main.js": "/form/static/js/main.ee0e0663.js",
+    "static/media/NotoSansDevanagari_Condensed-Regular.ttf": "/form/static/media/NotoSansDevanagari_Condensed-Regular.10217f810f6ea53a9d41.ttf",
+    "index.html": "/form/index.html",
+    "main.676a1ff9.css.map": "/form/static/css/main.676a1ff9.css.map",
+    "main.ee0e0663.js.map": "/form/static/js/main.ee0e0663.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.676a1ff9.css",
+    "static/js/main.ee0e0663.js"
+  ]
+}
